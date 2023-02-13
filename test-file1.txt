@@ -1,4 +1,4 @@
 Hi This is a test file
 how to configure github
 
-My name is Aman Sharma
+My name is Aman
